@@ -37,14 +37,16 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Standoff 2 is a popular first-person shooter game developed and published by Axlebolt. The game is available on both Android and iOS devices and has gained a massive following since its release in 2018. ","photo":"https://iili.io/HShnbJj.jpg"},
+  {"title":"how to use this app 2","desc":"The game has several modes, including deathmatch, defuse the bomb, and team deathmatch, among others. In this article, we will be discussing the Standoff 2 mod hant, its features, and how to install it.","photo":"https://iili.io/HShnpOQ.jpg"},
+  {"title":"advice pack 3","desc":"Before we dive into the details of the hant mod, let's first understand what a mod is. A mod, short for modification, is a software alteration that modifies the behavior of a game or software. ","photo":"https://iili.io/HShntUb.webp"},
+  {"title":"tips mod 4","desc":"Modifying games is a popular activity among gamers and mod developers create mods to add new features, enhance the graphics, or add new content to existing games.","photo":"https://iili.io/HShnybV.jpg"},
+  {"title":"advance pack 5","desc":"The hant mod for Standoff 2 is a popular modification that enhances the gameplay and provides additional features to the game. The mod was created by a group of developers and has gained a massive following among the Standoff 2 community.","photo":"https://iili.io/HShnm5x.jpg"},
+  {"title":"helper mod 6","desc":"The hant mod for Standoff 2 adds several new features to the game, including new skins, weapons, and maps. Some of the notable features of the mod are:","photo":"https://iili.io/HShoHzB.jpg"},
+  {"title":"advice pack 7","desc":"New Weapons - The mod introduces several new weapons to the game, including the AK-47 Neon Revolution, the M4A1 Hyper Beast, and the Desert Eagle Kumicho Dragon. These weapons have unique skins and are not available in the original game.","photo":"https://iili.io/HShoJWP.jpg"},
+  {"title":"tips mod 8","desc":"New Skins - The hant mod adds several new skins to the game, including skins for weapons and characters. The skins are unique and add a new dimension to the game.
+
+","photo":"https://iili.io/HShods1.jpg"}
    ]
  
 }
